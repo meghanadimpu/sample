@@ -1,2 +1,3 @@
 # sample
-sample app for push
+sample app for pull
+
